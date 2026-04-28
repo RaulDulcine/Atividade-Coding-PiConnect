@@ -1,7 +1,4 @@
-"""Modulo para criar o projeto integrador."""
-
 class ProjetoIntegrador:
-    """Classe Criando o ProjetoIntegrador"""
     def __init__(self, titulo, curso, periodo, descricao):
         self.titulo = titulo
         self.curso = curso
